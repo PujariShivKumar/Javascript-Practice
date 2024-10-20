@@ -27,6 +27,7 @@ function BinarySearch(arr,num){
             return mid + 1;
         }
     }
+    console.log("not found");
     return -1;
 }
 
